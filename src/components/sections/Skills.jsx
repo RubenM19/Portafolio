@@ -13,7 +13,7 @@ const translations = {
     },
     skills: {
       programming: [
-        "Python (Intermediate)",
+        "Python (Advanced)",
         "SQL (Advanced)",
         "React (Intermediate)",
         "Javascript (Intermediate)",
@@ -29,6 +29,7 @@ const translations = {
         "Azure Databricks (Intermediate)",
         "Azure Storage (Intermediate)",
         "Data Factory (Basic)",
+        "AWS (Intermadiate)",
       ],
       languages: ["English (Advanced)", "Portuguese (Intermediate)"],
     },
@@ -43,7 +44,7 @@ const translations = {
     },
     skills: {
       programming: [
-        "Python (Intermedio)",
+        "Python (Avanzado)",
         "SQL (Avanzado)",
         "React (Intermedio)",
         "Javascript (Intermedio)",
@@ -59,6 +60,7 @@ const translations = {
         "Azure Databricks (Intermedio)",
         "Azure Storage (Intermedio)",
         "Data Factory (Básico)",
+        "AWS (Intermedio)",
       ],
       languages: ["Inglés (Avanzado)", "Portugués (Intermedio)"],
     },
