@@ -7,19 +7,20 @@ const translations = {
     title: "Professional Experience",
     experiences: [
       {
-        title: "Volunteer Programming Instructor",
-        company: "GDIT - 'CONTACTO JOVEN PROGRAMMING FROM 0'",
-        period: "April 2023",
+        title: "Jr. Data Management Analyst",
+        company: "Kantar Worldpanel",
+        period: "January 2025 - Present",
         responsibilities: [
-          "Teach Python to high school 5th-grade students via Zoom",
-          "Foster interest in programming",
-          "Use digital tools like Visual Studio Code, Google Collab, and Jupyter",
+          "Report automation using Python, reducing analysis time and facilitating the presentation of insights related to penetration and frequency variables for key clients.",
+          "Leading the Radix Project for database cleaning and migration.",
+          "Automating data loading processes using Power Automate and Excel macros.",
+          "Automating data ingestion processes with Python and machine learning to update product databases, ensuring 95% accuracy in systematic consumer goods reports.",
         ],
       },
       {
         title: "Pre-Professional Business Intelligence Intern",
         company: "Santander Microfinanzas",
-        period: "July 2023 - Present",
+        period: "July 2023 - Dec 2024",
         responsibilities: [
           "Design Power BI dashboards for commercial variable monitoring",
           "Data cleaning and transformation using SQL and Excel (PowerQuery)",
@@ -29,11 +30,45 @@ const translations = {
           "Extract, transform, and import data to Power BI for interactive dashboards",
         ],
       },
+      {
+        title: "Volunteer Programming Instructor",
+        company: "GDIT - 'CONTACTO JOVEN - PROGRAMACION DESDE 0'",
+        period: "April 2023",
+        responsibilities: [
+          "Teach Python to high school 5th-grade students via Zoom",
+          "Foster interest in programming",
+          "Use digital tools like Visual Studio Code, Google Collab, and Jupyter",
+        ],
+      },
     ],
   },
   es: {
     title: "Experiencia Profesional",
     experiences: [
+      {
+        title: "Analista Jr. Data Management",
+        company: "Kantar Worldpanel",
+        period: "Enero 2025 - Actualidad",
+        responsibilities: [
+          "Automatización de reportes con Python, reduciendo el tiempo de análisis y facilitando presentaciones de insights con respecto a las variables de penetración y frecuencia a clientes clave.",
+          "Lidero el Proyecto Radix para la limpieza y migración de bases de datos ",
+          "Automatizar procesos de carga de datos con Power Automate y macros de Excel",
+          "Automatización de procesos de ingesta de datos con python y machine learning para la actualización de bases de datos de productos, asegurando una precisión del 95% en los reportes sistemáticos de consumo masivo.",
+        ],
+      },
+      {
+        title: "Practicante Pre-Profesional de Business Intelligence",
+        company: "Santander Microfinanzas",
+        period: "Julio 2023 - Diciembre 2024",
+        responsibilities: [
+          "Diseñar dashboards de Power BI para el monitoreo de variables comerciales",
+          "Limpieza y transformación de datos usando SQL y Excel (PowerQuery)",
+          "Automatizar flujos de trabajo con Power Automate y macros de Excel",
+          "Acceso y consultas de datos en Databricks y Azure Storage",
+          "Crear soluciones low-code en Power Apps (e.g., feedback corporativo 360)",
+          "Extraer, transformar e importar datos a Power BI para dashboards interactivos",
+        ],
+      },
       {
         title: "Instructor Voluntario de Programación",
         company: "GDIT - 'CONTACTO JOVEN PROGRAMMING FROM 0'",
@@ -42,19 +77,6 @@ const translations = {
           "Enseñar Python a estudiantes de 5° grado de secundaria vía Zoom",
           "Fomentar el interés en la programación",
           "Usar herramientas digitales como Visual Studio Code, Google Collab y Jupyter",
-        ],
-      },
-      {
-        title: "Practicante Pre-Profesional de Business Intelligence",
-        company: "Santander Microfinanzas",
-        period: "Julio 2023 - Presente",
-        responsibilities: [
-          "Diseñar dashboards de Power BI para el monitoreo de variables comerciales",
-          "Limpieza y transformación de datos usando SQL y Excel (PowerQuery)",
-          "Automatizar flujos de trabajo con Power Automate y macros de Excel",
-          "Acceso y consultas de datos en Databricks y Azure Storage",
-          "Crear soluciones low-code en Power Apps (e.g., feedback corporativo 360)",
-          "Extraer, transformar e importar datos a Power BI para dashboards interactivos",
         ],
       },
     ],
